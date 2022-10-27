@@ -7,8 +7,9 @@
 /* more headers goes there*/
 
 
-/*
- * main: main function is to generate a random number
+/* betty style doc for function main goes there */
+/**
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
