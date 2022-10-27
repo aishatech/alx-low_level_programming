@@ -7,7 +7,8 @@
 /* more headers goes there*/
 
 
-/* main - entry point
+/*
+ * main - assign a random number to a variable
  *
  * Return: Always 0 (Success)
  */
