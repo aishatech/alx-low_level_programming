@@ -8,7 +8,7 @@
 
 
 /*
- * main - assign a random number to a variable
+ * main: main function is to generate a random number
  *
  * Return: Always 0 (Success)
  */
