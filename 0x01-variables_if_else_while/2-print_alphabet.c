@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+
 /**
- * Main - Entry point
+ * main - main function is to print lowercase
  *
  * Return: Always 0 (Success)
  */
@@ -11,7 +12,6 @@ int main(void)
 	char c;
 
 	c = 'a';
-
 	while
 		(c <= 'z')
 		{
@@ -19,6 +19,7 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
+
 
 	return (0);
 }
